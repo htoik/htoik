@@ -6,4 +6,4 @@
 - **Project Overviews** — ongoing work and experiments
 - **Contact Info** — how to reach me
 
-👉 Also, checkout my [repositories](https://github.com/htoik/repositories).
+👉 Also, checkout my [repositories](https://github.com/htoik/?tab=repositories).
