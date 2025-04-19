@@ -1,6 +1,6 @@
-# `htoik` @ GitHub
+# `htoik`@GitHub
 
-🔗 **Visit my website** [htoik.com](https://htoik.com) for:
+🔗 **Visit my website [htoik.com](https://htoik.com) for**:
 
 - **Publications & Research** — papers and articles
 - **Project Overviews** — ongoing work and experiments
